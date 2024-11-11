@@ -9,6 +9,7 @@
 #define DHTPIN 2     // Digital pin connected to the DHT sensor
 
 
+
 /************************* Declaring DHT Sensor Type  *********************************/
 #define DHTTYPE DHT11   // DHT 11
 
