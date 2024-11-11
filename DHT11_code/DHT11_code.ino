@@ -23,6 +23,7 @@ void setup()
   Serial.begin(115200); // Beginning Serial Communication with Computer
 
   dht.begin(); // beginning communication with Sensor
+  
 }
 
 void loop()
